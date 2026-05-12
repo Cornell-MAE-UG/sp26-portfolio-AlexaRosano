@@ -7,4 +7,4 @@ title: FFICA
 
 Mechatronics Robot Cube Craze Report
 
-<iframe src="{{ '/assets/yuh.pdf' | relative_url }}" width="100%" height="600px"></iframe>
+[Open PDF]({{ '/assets/yuh.pdf' | relative_url }})
