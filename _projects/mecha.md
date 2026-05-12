@@ -1,6 +1,6 @@
 ---
-layout: project
-title: My Project
+layout: Cube Craze Robot
+title: FFICA
 ---
 
 # My Project
