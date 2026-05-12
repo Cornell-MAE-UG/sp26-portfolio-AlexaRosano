@@ -7,4 +7,4 @@ title: FFICA
 
 Mechatronics Robot Cube Craze Report
 
-[Open PDF]({{ '/assets/yuh.pdf' | relative_url }})
+[CLICK HERE TO OPEN THE PDF](https://cornell-mae-ug.github.io/sp26-portfolio-AlexaRosano/assets/yuh.pdf)
