@@ -7,4 +7,4 @@ title: My Project
 
 Mechatronics Robot Cube Craze Report
 
-<embed src="assets/Mecha Final Report.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="assets/yuh.pdf" type="application/pdf" width="100%" height="600px" />
